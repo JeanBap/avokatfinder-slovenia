@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://slovenia.avokatfinder.com/sitemap.xml

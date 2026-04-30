@@ -1,5 +1,31 @@
 # AvökatFinder Slovenia
-> English-speaking law firm directory for Slovenia
+> The English-language directory of lawyers and law firms in Slovenia for expats, foreign nationals and international businesses.
 
-Directory: https://slovenia.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://slovenia.avokatfinder.com/: Home — find an English-speaking lawyer in Slovenia
+- https://slovenia.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Slovenia
+- https://slovenia.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Slovenia legal terms
+- https://slovenia.avokatfinder.com/blog/: Expat legal guides and property law articles for Slovenia
+- https://slovenia.avokatfinder.com/about/: About AvökatFinder Slovenia
+- https://slovenia.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://slovenia.avokatfinder.com/glossary/davcna-stevilka/
+- https://slovenia.avokatfinder.com/glossary/emso/
+- https://slovenia.avokatfinder.com/glossary/energetska-izkaznica/
+- https://slovenia.avokatfinder.com/glossary/hipoteka-slovenia/
+- https://slovenia.avokatfinder.com/glossary/najemna-pogodba/
+- https://slovenia.avokatfinder.com/glossary/notar-slovenija/
+- https://slovenia.avokatfinder.com/glossary/zemljiska-knjiga/
+- https://slovenia.avokatfinder.com/glossary/zemljiska-knjiga/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Slovenia
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://slovenia.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
